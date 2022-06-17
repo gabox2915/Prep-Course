@@ -47,7 +47,7 @@ console.log (resta(5,3))
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-return x por y
+
 }
 
 function divide(x, y) {
